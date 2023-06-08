@@ -227,3 +227,7 @@ body{
     font-size: 14px;
     margin-left: 7px;
 }
+.text1 h4{
+    margin-left: 10px;
+    display: flex;
+}
